@@ -1,5 +1,5 @@
 # ECEN 5713 - Advanced Embedded Software Development - Final Project
-This repository contains the Buildroot environment
+
 
 ## Project Overview:
 https://github.com/cu-ecen-aeld/final-project-sane5805/wiki/Project-Overview
