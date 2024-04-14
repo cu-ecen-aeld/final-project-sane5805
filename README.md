@@ -8,7 +8,9 @@ https://github.com/cu-ecen-aeld/final-project-sane5805/wiki/Project-Overview
 https://github.com/cu-ecen-aeld/final-project-sane5805/wiki/Project-Schedule
 
 ## Project Repo:
-https://github.com/sane5805/project_code_repo
+[code repo](https://github.com/sane5805/aesd_final_proj_code)
+
+[package code](https://github.com/sane5805/final-project-aesd-utils)
 
 ## Project Demo:
 https://github.com/cu-ecen-aeld/final-project-sane5805/wiki/Project-Demo
